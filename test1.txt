@@ -1,1 +1,2 @@
 This is my git file.
+Checking fetch and pull. 
